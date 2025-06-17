@@ -25,7 +25,7 @@ const Footer = () => {
     <div className='gap'>
         <a href='https://github.com/chauhan-ritik99'target='blank' rel='noreferrer' className='git'
 >
-         <img src='src/assets/github.jpg' alt='' style={{height:"35px"}}/>
+         <img src='src/assets/image/github.jpg' alt='' style={{height:"35px"}}/>
         </a>
 
         <a href='https://www.linkedin.com/in/ritik-chauhan-78064424a/' target='blank' rel='noreferrer' 

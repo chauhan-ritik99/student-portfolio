@@ -15,7 +15,7 @@ const Skills = () => {
               <img src="src/assets/image/html.jpg" alt='HTML' className='imgskl'/>
           </div>
            <div>
-              <img src="/src/assets/abc.jpg" alt='HTML' className='imgskll' />
+              <img src="src/assets/image/css.jpg" alt='HTML' className='imgskll' />
           </div>
            <div>
               <img src="src/assets/image/js.jpg" alt='HTML'  className='imgskllll'/>
@@ -24,10 +24,10 @@ const Skills = () => {
               <img src="src/assets/image/react-logo.webp" alt='HTML'  className='imgsklll'/>
           </div>
            <div>
-              <img src="src/assets/boot.jpg" alt='HTML'  className='imgskl'/>
+              <img src="src/assets/image/boot.jpg" alt='HTML'  className='imgskl'/>
           </div>
            <div>
-              <img src="src/assets/github.jpg" alt='HTML'  className='imgsklllll'/>
+              <img src="src/assets/image/github.jpg" alt='HTML'  className='imgsklllll'/>
           </div>
              
         </div>
