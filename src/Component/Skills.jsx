@@ -1,4 +1,10 @@
 import React from 'react'
+import img from '../assets/image/html.jpg'
+import img2 from '../assets/image/css.jpg'
+import img3 from '../assets/image/js.jpg'
+import img4 from '../assets/image/react-logo.webp'
+import img5 from '../assets/image/boot.jpg'
+import img6 from '../assets/image/github.jpg'
 const Skills = () => {
   return (
     <>
@@ -12,22 +18,22 @@ const Skills = () => {
 
         <div className='flex4'>
           <div>
-              <img src="src/assets/image/html.jpg" alt='HTML' className='imgskl'/>
+              <img src={img} alt='HTML' className='imgskl'/>
           </div>
            <div>
-              <img src="src/assets/image/css.jpg" alt='HTML' className='imgskll' />
+              <img src={img2} alt='css' className='imgskll' />
           </div>
            <div>
-              <img src="src/assets/image/js.jpg" alt='HTML'  className='imgskllll'/>
+              <img src={img3} alt='js'  className='imgskllll'/>
           </div>
            <div>
-              <img src="src/assets/image/react-logo.webp" alt='HTML'  className='imgsklll'/>
+              <img src={img4} alt='react'  className='imgsklll'/>
           </div>
            <div>
-              <img src="src/assets/image/boot.jpg" alt='HTML'  className='imgskl'/>
+              <img src={img5} alt='boot'  className='imgskl'/>
           </div>
            <div>
-              <img src="src/assets/image/github.jpg" alt='HTML'  className='imgsklllll'/>
+              <img src={img6} alt='gitL'  className='imgsklllll'/>
           </div>
              
         </div>
