@@ -89,7 +89,7 @@ const Contact = () => {
 
       <div className='conflex'>
         <div>
-          <img src='src/assets/image/work.jpg' alt='Work' className='work' />
+          <img src='/src/assets/image/work.jpg' alt='Work' className='work' />
         </div>
 
         <div>
