@@ -1,10 +1,10 @@
 import React from 'react'
-import img from '../assets/image/html.jpg'
-import img2 from '../assets/image/css.jpg'
-import img3 from '../assets/image/js.jpg'
-import img4 from '../assets/image/react-logo.webp'
-import img5 from '../assets/image/boot.jpg'
-import img6 from '../assets/image/github.jpg'
+import img from '/src/assets/image/html.jpg'
+import img2 from '/src/assets/image/css.jpg'
+import img3 from '/src/assets/image/js.jpg'
+import img4 from '/src//assets/image/react-logo.webp'
+import img5 from '/src//assets/image/boot.jpg'
+import img6 from '/src/assets/image/github.jpg'
 const Skills = () => {
   return (
     <>
